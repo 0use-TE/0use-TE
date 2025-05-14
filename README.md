@@ -1,6 +1,3 @@
-<p align="center"><img width="80%" alt="Hello, I'm Ouse. I love .NET and C#!" src="./assets/gh-readme-header.png" /></p>
-
-<br />
 
 Hi, I'm **Ouse** 👋  
 A developer from **China**, currently a university student — and someone who's truly in love with **.NET** and **C#**.
@@ -34,7 +31,6 @@ I believe C# is not just a language — it's my favorite way to think, solve pro
 ### 🎮 A Bit More About Me
 
 - 🧑‍💻 I code almost every day — it's not a task, it's my **favorite thing to do**
-- 🛠 I'm currently working on a personal finance system using Blazor and EF Core
 - 🦔 I have a pet African pygmy hedgehog named **Code**
 - 🌟 My goal is to become a developer who builds things that make a difference
 
