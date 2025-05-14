@@ -1,45 +1,53 @@
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
+<p align="center"><img width="80%" alt="Hello, I'm Ouse. I love .NET and C#!" src="./assets/gh-readme-header.png" /></p>
 
 <br />
 
-I'm a self-taught passionate FrontEnd developer from India 🇮🇳
+Hi, I'm **Ouse** 👋  
+A developer from **China**, currently a university student — and someone who's truly in love with **.NET** and **C#**.
 
-**About me**
+---
 
-- 💼 FrontEnd Engineer at [Razorpay](http://razorpay.com/)
+### ❤️ My Passion
 
-- 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **50K** stars on GitHub
+It all started with a simple `Console.WriteLine("Hello World");`  
+Since then, I've been on a journey with **C#** and **.NET**, and every day I find something new to love.
 
-- ❤️ I love writing TypeScript, and building fun experiments on type-level
+- 💎 I love the elegance of **C#** syntax  
+- ⚙️ I'm fascinated by the **.NET ecosystem** — from Blazor to EF Core, from WinForms to Web APIs  
+- 🧪 I enjoy building tools, apps, and fun experiments just to learn more  
+- 📖 Even when I'm not coding, I'm reading docs or watching videos about **.NET internals**  
 
-- 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
+I believe C# is not just a language — it's my favorite way to think, solve problems, and express ideas.
 
-<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+---
 
+### 🔧 My Tech Stack
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+<code><img height="20" alt="csharp" src="https://raw.githubusercontent.com/github/explore/main/topics/csharp/csharp.png" /></code>
+<code><img height="20" alt="dotnet" src="https://raw.githubusercontent.com/github/explore/main/topics/dotnet/dotnet.png" /></code>
+<code><img height="20" alt="blazor" src="https://raw.githubusercontent.com/github/explore/main/topics/blazor/blazor.png" /></code>
+<code><img height="20" alt="unity" src="https://raw.githubusercontent.com/github/explore/main/topics/unity/unity.png" /></code>
+<code><img height="20" alt="aspnet" src="https://raw.githubusercontent.com/github/explore/main/topics/aspnet/aspnet.png" /></code>
 
-#### Top Repositories
+---
 
+### 🎮 A Bit More About Me
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
-</a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
-</a>
+- 🧑‍💻 I code almost every day — it's not a task, it's my **favorite thing to do**
+- 🛠 I'm currently working on a personal finance system using Blazor and EF Core
+- 🦔 I have a pet African pygmy hedgehog named **Code**
+- 🌟 My goal is to become a developer who builds things that make a difference
 
-<br />
-<br />
+---
 
-<a href="https://twitter.com/anuraghazru">
-  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
-<a href="https://codesandbox.io/u/anuraghazra">
-  <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
-</a>
+### 💬 Let's Connect
+
+Even though my English isn't perfect, I love talking about **code, .NET, and game development**.  
+If you're also into C# or just love learning new tech, let's chat or collaborate!
+
+---
+
+<div align="center">
+  <a href="https://github.com/Ouse"><img src="https://github-readme-stats.vercel.app/api?username=0use-TE&show_icons=true&theme=buefy&hide_border=true" /></a>
+  <a href="https://github.com/Ouse"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0use-TE&layout=compact&theme=buefy&hide_border=true" /></a>
+</div>
