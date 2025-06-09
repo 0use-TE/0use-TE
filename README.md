@@ -44,6 +44,6 @@ If you're also into C# or just love learning new tech, let's chat or collaborate
 ---
 
 <div align="center">
-  <a href="https://github.com/Ouse"><img src="https://github-readme-stats.vercel.app/api?username=0use-TE&show_icons=true&theme=buefy&hide_border=true" /></a>
-  <a href="https://github.com/Ouse"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0use-TE&layout=compact&theme=buefy&hide_border=true" /></a>
+  <a href="https://github.com/0use-TE"><img src="https://github-readme-stats.vercel.app/api?username=0use-TE&show_icons=true&theme=buefy&hide_border=true" /></a>
+  <a href="https://github.com/0use-TE"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0use-TE&layout=compact&theme=buefy&hide_border=true" /></a>
 </div>
