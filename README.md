@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Shuo Wang
+# Hi there 👋 I'm Ouse.
 
 ### Full-Stack Developer × Embedded Engineer × AI Builder
 
