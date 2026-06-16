@@ -1,35 +1,36 @@
+# Hi there 👋 I'm Shuo Wang
 
----
+### Full-Stack Developer × Embedded Engineer × AI Builder
 
-### ❤️ My Passion
+🎓 Computer Science Student
 
-It all started with a simple `Console.WriteLine("Hello World");`
-Since then, I've been on a journey with **C#** and **.NET**, and every day I find something new to love.
+```text
+From PCB to Cloud.
+Building software, hardware, and intelligent systems with C#.
+```
 
-* 💎 I love the elegance of **C#** syntax
-* ⚙️ I'm fascinated by the **.NET ecosystem** — from Blazor to EF Core, Web APIs, from WinForms to Avalonia
-* 🎮 Recently, I’ve started using **Godot** with C# to build my own **game project** — combining creativity with programming
-* 🧪 I enjoy building tools, apps, games, and fun experiments just to learn more
-* 📖 Even when I'm not coding, I'm reading docs or watching videos about **.NET internals**
+### About Me
 
-I believe C# is not just a language — it's my favorite way to think, solve problems, and express ideas.
+* 🎓 Currently studying at university
+* 💻 Passionate about C# and the .NET ecosystem
+* 🌐 Building full-stack applications with ASP.NET Core, Blazor, and Vue
+* 🖥️ Developing desktop applications with Avalonia
+* 🔌 Learning embedded systems, Linux, and IoT development
+* 🏭 Working on industrial software and HMI projects
+* 🤖 Exploring AI Agents and AI-powered applications
+* 🎮 Building games with Godot + C#
+* ⚡ Enjoying Vibe Coding and rapid prototyping
 
----
+### Tech Stack
 
-### 🔧 My Tech Stack
+`C#` `ASP.NET Core` `Blazor` `Avalonia` `Vue` `EF Core`
+`ESP32` `Linux` `Godot` `MySQL` `SQLite` `AI`
 
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/angular" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=angular" alt="angular" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/csharp" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cs" alt="csharp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/dotnet" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=dotnet" alt="dotnet" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/gatsby" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=gatsby" alt="gatsby" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sqlite" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/unity" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=unity" alt="unity" width="40" height="40"/> </a></p>
+### Fun Fact
 
----
+🦔 I have an African pygmy hedgehog named **Code**.
 
-### 🎮 A Bit More About Me
-
-* 🧑‍💻 I code almost every day — it's not a task, it's my **favorite thing to do**
-* 🦔 I have a pet African pygmy hedgehog named **Code**
-* 🌟 My goal is to become a developer who builds things that make a difference
-* 🎨 Right now, I’m developing a **game with Godot + C#** — bringing my imagination to life
-
----
+When I'm not coding, I'm probably spending time with Code, reading technical books, or exploring new technologies.
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=0use-TE&show_icons=true&locale=en&layout=compact" alt="0use-TE" /></p>
