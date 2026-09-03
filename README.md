@@ -13,7 +13,7 @@ Building software, hardware, and intelligent systems with C#.
 
 * 🎓 Currently studying at university
 * 💻 Passionate about C# and the .NET ecosystem
-* 🌐 Building full-stack applications with ASP.NET Core, Blazor, and Vue
+* 🌐 Building full-stack applications with ASP.NET Core, Blazor, and Angular
 * 🖥️ Developing desktop applications with Avalonia
 * 🔌 Learning embedded systems, Linux, and IoT development
 * 🏭 Working on industrial software and HMI projects
@@ -23,8 +23,8 @@ Building software, hardware, and intelligent systems with C#.
 
 ### Tech Stack
 
-`C#` `ASP.NET Core` `Blazor` `Avalonia` `Vue` `EF Core`
-`ESP32` `Linux` `Godot` `MySQL` `SQLite` `AI`
+`C#` `ASP.NET Core` `Blazor` `Avalonia` `Angular` `EF Core`
+`ESP32` `Linux` `Godot` `PCB` `EDA` `SQLite` `AI`
 
 ### Fun Fact
 
