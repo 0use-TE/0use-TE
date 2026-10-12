@@ -28,7 +28,7 @@ Building software, hardware, and intelligent systems with C#.
 
 ### Fun Fact
 
-🦔 I have an African pygmy hedgehog named **Code**.
+🦔&🐱 I have an African pygmy hedgehog named **扣嘚**(Code) and a cat named **基米**(jimi).
 
 When I'm not coding, I'm probably spending time with Code, reading technical books, or exploring new technologies.
 
